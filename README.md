@@ -12,7 +12,7 @@ Description
 3. Implemented music, "Clair De Lune" (see references below for source). Meant to fit the calm colors along with the game being more relaxed.
 4. Ping Pong hit sound for the ball hitting the paddle and bricks (see below)
 
-Remember to add moving bricks along with them being colored (exercise 3c video), put in confetti particles for the paddle (exercise 3a video), and 1 other thing
+Remember to add moving bricks along with them being colored (exercise 3c video), put in confetti particles for the paddle (exercise 3a video), and 1 other thing (bricks falling in, possible tweening, etc.)
 
 
 
