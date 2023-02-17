@@ -18,8 +18,9 @@ Remember to add moving bricks along with them being colored (exercise 3c video),
 
 
 ## References
-https://freemusicarchive.org/music/Podington_Bear/Clair_De_Lune_Variations/Clair_De_Lune_Wurly_Drum_Machine_and_Bucket_Arr/
-https://freesound.org/people/14FPanskaBubik_Lukas/sounds/418556/
+Music: https://freemusicarchive.org/music/Podington_Bear/Clair_De_Lune_Variations/Clair_De_Lune_Wurly_Drum_Machine_and_Bucket_Arr/
+Paddle: https://freesound.org/people/carlmartin/sounds/158956/
+Brick: 
 
 ## Future Development
 
