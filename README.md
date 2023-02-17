@@ -7,7 +7,10 @@ Description
 
 ## Implementation
 
-Which features you included
+1. Handmade sprite for the paddle that "highlights" when hit by the ball
+2. Handmade sprite for the ball that "highlights" when hitting any object
+3. Implemented music, "Clair De Lune" (see references below for source). Meant to fit the calm colors along with the game being more relaxed.
+
 
 
 ## References
