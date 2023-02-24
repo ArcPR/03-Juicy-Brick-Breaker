@@ -23,7 +23,7 @@ func hit(_ball):
 func die():
 	dying = true
 	collision_layer = 0
-	$ColorRect.hide()
+	$Sprite.hide()
 	Global.update_score(score)
 	if not Global.feverish:
 		Global.update_fever(score)
