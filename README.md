@@ -1,8 +1,8 @@
 # Project Name
 
-Context and date
+Brick Breaker (completed 2/24/2023)
 
-Description
+A basic brick breaker game with some additional elements added to make it "juicier". Hopefully the overall enjoyment of the game is higher than if the added elements didn't exist. 
 
 
 ## Implementation
